@@ -25,7 +25,7 @@
   - [📝 License ](#-license-)
 
 ## Hello Rails Back End <a name="hello-rails-react"></a>
-Hello Rails Back End is a web application that  Ruby on Rails and provides an api end point to get a random greeting message. This [React Front End](https://github.com/amexabee/hello-rails-front-end) utlizes the json provided by this api.
+Hello Rails Back End is a web application that  Ruby on Rails and provides an api end point to get a random greeting message. This [React Front End](https://github.com/amexabee/hello-react-front-end) utlizes the json provided by this api.
 
 ## 🛠 Built With <a name="built-with"></a>
 
