@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Controller for managing messages.
 class MessagesController < ApplicationController
   def index
